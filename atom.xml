@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="yuyunang.github.io/"/>
-  <updated>2020-08-13T11:03:04.000Z</updated>
+  <updated>2020-08-13T13:18:38.000Z</updated>
   <id>yuyunang.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>试试上传图片</title>
+    <link href="yuyunang.github.io/four/"/>
+    <id>yuyunang.github.io/four/</id>
+    <published>2020-08-13T13:18:38.000Z</published>
+    <updated>2020-08-13T13:18:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.loli.net/2020/08/13/GScE8aVKe6nqkxA.jpg" alt="20200813_210701.jpg"><br>救救孩子</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://i.loli.net/2020/08/13/GScE8aVKe6nqkxA.jpg&quot; alt=&quot;20200813_210701.jpg&quot;&gt;&lt;br&gt;救救孩子&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="杂" scheme="yuyunang.github.io/categories/%E6%9D%82/"/>
+    
+    
+      <category term="试试就是试试" scheme="yuyunang.github.io/tags/%E8%AF%95%E8%AF%95%E5%B0%B1%E6%98%AF%E8%AF%95%E8%AF%95/"/>
+    
+      <category term="失败了也不会删的" scheme="yuyunang.github.io/tags/%E5%A4%B1%E8%B4%A5%E4%BA%86%E4%B9%9F%E4%B8%8D%E4%BC%9A%E5%88%A0%E7%9A%84/"/>
+    
+  </entry>
   
   <entry>
     <title>天哪，为什么她这么能叫...</title>

@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>试试上传图片</title>
+    <url>/four/</url>
+    <content><![CDATA[<p><img src="https://i.loli.net/2020/08/13/GScE8aVKe6nqkxA.jpg" alt="20200813_210701.jpg"><br>救救孩子</p>
+]]></content>
+      <categories>
+        <category>杂</category>
+      </categories>
+      <tags>
+        <tag>试试就是试试</tag>
+        <tag>失败了也不会删的</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>天哪，为什么她这么能叫...</title>
     <url>/three/</url>
     <content><![CDATA[<h3 id="耍性子"><a href="#耍性子" class="headerlink" title="耍性子"></a>耍性子</h3><p>我们吃饭的时候她饿得不行，没吃到饭，就乱拉粑粑气我们。orz</p>
