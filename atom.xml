@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="yuyunang.github.io/"/>
-  <updated>2020-08-13T08:44:05.000Z</updated>
+  <updated>2020-08-13T10:11:51.000Z</updated>
   <id>yuyunang.github.io/</id>
   
   <author>
@@ -17,20 +17,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>two</title>
+    <link href="yuyunang.github.io/two/"/>
+    <id>yuyunang.github.io/two/</id>
+    <published>2020-08-13T10:11:51.000Z</published>
+    <updated>2020-08-13T10:11:51.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>她好高兴哦</title>
     <link href="yuyunang.github.io/just-a-test/"/>
     <id>yuyunang.github.io/just-a-test/</id>
     <published>2020-08-13T08:44:05.000Z</published>
     <updated>2020-08-13T08:44:05.000Z</updated>
     
-    <content type="html"><![CDATA[<p>今天早上小雨又被我妈抱起来放我枕头边上叫我起床。然后估计她憋不住了或者其实是在威胁我们放她下床，尿在了我床脚….</p><h3 id="这很小雨"><a href="#这很小雨" class="headerlink" title="这很小雨"></a>这很小雨</h3>]]></content>
+    <content type="html"><![CDATA[<pre><code>今天早上小雨又被我妈抱起来放我枕头边上叫我起床。然后估计她憋不住了或者其实是在威胁我们放她下床，尿在了我床脚....</code></pre><p><strong><em>这很小雨</em></strong></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;今天早上小雨又被我妈抱起来放我枕头边上叫我起床。然后估计她憋不住了或者其实是在威胁我们放她下床，尿在了我床脚….&lt;/p&gt;
-&lt;h3 id=&quot;这很小雨&quot;&gt;&lt;a href=&quot;#这很小雨&quot; class=&quot;headerlink&quot; title=&quot;这很小雨&quot;&gt;&lt;/a&gt;这很小雨&lt;/h3&gt;
+        &lt;pre&gt;&lt;code&gt;今天早上小雨又被我妈抱起来放我枕头边上叫我起床。然后估计她憋不住了或者其实是在威胁我们放她下床，尿在了我床脚....&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;这很小雨&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
       
     
     </summary>

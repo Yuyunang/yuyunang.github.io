@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>two</title>
+    <url>/two/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>她好高兴哦</title>
     <url>/just-a-test/</url>
-    <content><![CDATA[<p>今天早上小雨又被我妈抱起来放我枕头边上叫我起床。然后估计她憋不住了或者其实是在威胁我们放她下床，尿在了我床脚….</p>
-<h3 id="这很小雨"><a href="#这很小雨" class="headerlink" title="这很小雨"></a>这很小雨</h3>]]></content>
+    <content><![CDATA[<pre><code>今天早上小雨又被我妈抱起来放我枕头边上叫我起床。然后估计她憋不住了或者其实是在威胁我们放她下床，尿在了我床脚....</code></pre><p><strong><em>这很小雨</em></strong></p>
+]]></content>
       <tags>
         <tag>今天很不乖</tag>
         <tag>算了没办法╮（╯＿╰）╭</tag>
